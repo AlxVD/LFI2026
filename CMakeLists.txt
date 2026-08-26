@@ -10,9 +10,9 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS  ON)
 
 include_directories(.)
 
-add_subdirectory(array)
 add_subdirectory(sum)
 add_subdirectory(gcd)
 add_subdirectory(rational)
-add_subdirectory(matrix)
+add_subdirectory(array)
 add_subdirectory(string)
+add_subdirectory(matrix)
