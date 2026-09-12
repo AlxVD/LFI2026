@@ -18,7 +18,7 @@
 В первый раз потребуется:
 1. Клонировать данный репозиторий на свой компьютер (`git clone https://github.com/AlxVD/LFI2026.git`). В его
 корне - создать каталог `build` (`mkdir build`).
-2. apt install clang-format clang-tidy
+2. `apt install clang-format clang-tidy` (команда для Ubuntu/Debian; в других дистрибутивах - по аналогии).
 
 ### Реализация и тестирование решений
 
